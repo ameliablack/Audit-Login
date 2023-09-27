@@ -1,5 +1,5 @@
 
-package sdevhw2;
+package loginApp;
 
 import javafx.application.Application;
 import javafx.application.Platform;
@@ -26,7 +26,7 @@ import java.util.ArrayList;
 import static javafx.application.Application.launch;
 import javax.swing.JOptionPane;
 
-public class Sdevhw2 extends Application {
+public class LoginApp extends Application {
 
 	//directory of the text files, same with directory of this class
 	private final static String FILE_LOCATION = "/Users/ameliablack/NetBeansProjects/sdevhw2/src/sdevhw2/";
