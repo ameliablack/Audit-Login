@@ -69,8 +69,5 @@ Contributions to the Login Application are welcome! If you have suggestions for 
    I appreciate your contributions!
 
 ##  License
-   This project is licensed under the MIT License. See the LICENSE file for details.
-
-   ```vbnet
-   Replace "yourusername" with your GitHub username and make any necessary adjustments to match your project structure and preferences. This README provides a    basic structure and information, but you can expand upon it as needed.```
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
