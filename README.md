@@ -21,7 +21,7 @@ Open the project in your preferred Java IDE (e.g., NetBeans).
 
 Compile and run the LoginApp class to start the application.
 
-Features
+## Features
 The Login Application offers the following features:
 
 Secure login with username, password, and PIN.
@@ -30,7 +30,7 @@ Session management with a limit on unsuccessful login attempts.
 Logging of login and authentication events in an audit log file.
 Simple and intuitive user interface.
 
-Usage
+## Usage
 
 Launch the application by running the LoginApp class.
 
@@ -42,7 +42,7 @@ If the login information is correct, you will be welcomed to the system.
 
 After three unsuccessful login attempts, the application will lock you out. You can try again later.
 
-Contributing
+## Contributing
 
 Contributions to the Login Application are welcome! If you have suggestions for improvements, bug reports, or feature requests, please follow these steps:
 
@@ -69,7 +69,8 @@ Describe your changes and submit the pull request.
 
 We appreciate your contributions!
 
-License
+## License
+
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 ```vbnet
