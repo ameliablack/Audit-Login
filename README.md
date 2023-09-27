@@ -29,7 +29,9 @@ User authentication against stored usernames and passwords.
 Session management with a limit on unsuccessful login attempts.
 Logging of login and authentication events in an audit log file.
 Simple and intuitive user interface.
+
 Usage
+
 Launch the application by running the LoginApp class.
 
 Enter your username, password, and PIN in the respective fields.
@@ -41,26 +43,25 @@ If the login information is correct, you will be welcomed to the system.
 After three unsuccessful login attempts, the application will lock you out. You can try again later.
 
 Contributing
+
 Contributions to the Login Application are welcome! If you have suggestions for improvements, bug reports, or feature requests, please follow these steps:
 
 Fork the repository to your GitHub account.
 
 Clone your forked repository to your local machine:
 
-bash
+```bash
 Copy code
 git clone https://github.com/yourusername/login-application.git
 Create a new branch for your contribution:
 
-bash
-Copy code
+```bash
 git checkout -b feature/your-feature-name
 Make your changes and commit them to your branch.
 
 Push your changes to your forked repository:
 
-bash
-Copy code
+```bash
 git push origin feature/your-feature-name
 Create a pull request from your forked repository to the original repository.
 
@@ -71,7 +72,6 @@ We appreciate your contributions!
 License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-vbnet
-Copy code
-
+```vbnet
 Replace "yourusername" with your GitHub username and make any necessary adjustments to match your project structure and preferences. This README provides a basic structure and information, but you can expand upon it as needed.
+
