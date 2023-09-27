@@ -29,7 +29,7 @@ import javax.swing.JOptionPane;
 public class LoginApp extends Application {
 
 	//directory of the text files, same with directory of this class
-	private final static String FILE_LOCATION = "/Users/ameliablack/NetBeansProjects/sdevhw2/src/sdevhw2/";
+	private final static String FILE_LOCATION = "/Users/ameliablack/NetBeansProjects/loginApp";
 	// counter for login attempts
 	private int attempts = 0;
         
