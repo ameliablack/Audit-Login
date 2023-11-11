@@ -1,7 +1,7 @@
 # Audit-Login
 
 <div align="center">
-  <img src="login.png" alt="Website Preview" width="600">
+  <img src="Login.png" alt="Website Preview" width="600">
 </div>
 
 The Audit-Login Application is a Java desktop application that provides a simple login interface for users to enter their username, password, and PIN to access a secured system. This README provides an overview of the application, how to use it, and how to contribute to the project.
